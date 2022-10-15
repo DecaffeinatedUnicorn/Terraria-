@@ -1,0 +1,3 @@
+displayName = TerrariaPlusPlusPlus
+author = Troubledumb
+version = 0.1
